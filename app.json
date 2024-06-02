@@ -8,6 +8,7 @@
       "identity",
       "verifiable-credentials"
     ],
+    "stack": "container",
     "addons": ["heroku-postgresql:mini"],
     "env": {
       "BASE_URL": {
