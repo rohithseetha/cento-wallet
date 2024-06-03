@@ -9,7 +9,7 @@
       "verifiable-credentials"
     ],
     "stack": "container",
-    "addons": ["heroku-postgresql:mini"],
+    "addons": ["heroku-postgresql:essential-0"],
     "env": {
       "BASE_URL": {
         "description": "The url for which your DID will be based on",
